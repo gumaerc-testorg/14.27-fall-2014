@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes for selected sessions of the
+  course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -36,9 +38,9 @@ No lecture notes available
 {{< tdopen >}}
 
 
-[Review Notes 1 (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec2)
+{{% resource_link 2f20996b-6445-3df3-86f3-13b1e240ccef "Review Notes 1 (PDF)" %}}
 
-[Review Notes 2 (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec3)
+{{% resource_link 0febe488-ebc7-8cee-74b5-6104b09ac768 "Review Notes 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -49,7 +51,7 @@ No lecture notes available
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Entry, Market Structure, and Concentration Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec4)
+{{% resource_link ad6d20bd-0f2d-3a8e-6bf6-00ee9a8bbec3 "Entry, Market Structure, and Concentration Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +60,7 @@ No lecture notes available
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Online Auctions Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec5)
+{{% resource_link 2e5e59b9-59d4-305b-82c1-3df46cab1206 "Online Auctions Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +78,7 @@ No lecture notes available
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[The Shift Away from Auctions Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec7)
+{{% resource_link 699135f6-e496-722d-f404-f5ac38098f72 "The Shift Away from Auctions Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +87,7 @@ No lecture notes available
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[The Economics of Group Purchasing Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec8)
+{{% resource_link 90553454-5ff7-c874-b481-b08f61d0ae8a "The Economics of Group Purchasing Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +96,7 @@ No lecture notes available
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Price Search Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec9)
+{{% resource_link c7d4ee8e-387a-7cb1-54c2-50f51cfcdea5 "Price Search Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ No lecture notes available
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Search and Obfuscation on the Internet Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec10)
+{{% resource_link 285e8b8a-f0b3-5964-ccf1-715424f4ca90 "Search and Obfuscation on the Internet Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +114,7 @@ No lecture notes available
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Extremely High Search Costs and the Internet Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec11)
+{{% resource_link 09249edc-0205-1329-c40a-9e4dc3f2aa87 "Extremely High Search Costs and the Internet Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +123,7 @@ No lecture notes available
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[E-retail Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec12)
+{{% resource_link e96fa6f3-4c61-e803-1528-3d72147649f5 "E-retail Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +132,7 @@ No lecture notes available
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Price Discrimination Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec13)
+{{% resource_link 01454b51-f87e-5907-b609-7de412687b59 "Price Discrimination Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +141,7 @@ No lecture notes available
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Sales Tax and E-commerce Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec14)
+{{% resource_link 08d0372b-77e7-e127-45b5-0606b92bf15b "Sales Tax and E-commerce Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +150,7 @@ No lecture notes available
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Search Advertising and Sponsored Links Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec15)
+{{% resource_link 2e26cd48-665d-75b5-5939-29a7385fcd31 "Search Advertising and Sponsored Links Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +159,7 @@ No lecture notes available
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Auction Types and Settings Notes (PDF)]({{< baseurl >}}/resources/mit14_27f14_lec16)
+{{% resource_link 9961dc85-e41f-9f04-e448-e37d17dae23f "Auction Types and Settings Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course, related
+  materials, instructions for the end of semester project, and an example of student
+  work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,43 +29,43 @@ SOLUTIONS
 {{< tdopen >}}
 
 
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset1)
+{{% resource_link f24e2536-219e-4820-4fbc-7a14dc0dfe50 "Problem Set 1 (PDF)" %}}
 
-[Data for Problem Set 1 (XLS)]({{< baseurl >}}/resources/mit14_27f14_data_pset1)
+{{% resource_link 30e845d4-62db-9fb2-5dbe-91e187b47525 "Data for Problem Set 1 (XLS)" %}}
 
-[Assigned Products (XLS)]({{< baseurl >}}/resources/mit14_27f14_assign_prod)
+{{% resource_link 0b548e00-6e68-12e6-b5fa-eb5c0f704447 "Assigned Products (XLS)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset1_sol)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset2)
-{{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset2_sol)
+{{% resource_link d1e639e7-713a-17e0-dc8f-7f8852a2eb2a "Problem Set 1 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset3)
+{{% resource_link 17747dbc-7a21-970f-b793-0c18c9ad3fe1 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset3_sol)
+{{% resource_link bb342625-a852-1eb7-191a-0945936be323 "Problem Set 2 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset4)
+{{% resource_link cbd50522-cdee-d313-6349-d087aaa730c5 "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit14_27f14_pset4_sol)
+{{% resource_link ec30180e-388c-3a78-6a01-2fd254b4da22 "Problem Set 3 Solutions (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link b52287ef-628f-c551-ea55-7e8ed1d1af55 "Problem Set 4 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link d284dbc3-7957-3580-e41c-f645e4b16096 "Problem Set 4 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,6 +91,6 @@ Write an essay (8–10 pages) and deliver a presentation (30 minutes) on an e-co
 
 (Courtesy of MIT students. Used with permission.)
 
-["The Interaction of Different Players in the Online Food Ordering Industry." (PDF)]({{< baseurl >}}/resources/mit14_27f14_online_food)
+{{% resource_link a68e2cd8-7c46-0792-f092-64ba9768487b "\"The Interaction of Different Players in the Online Food Ordering Industry.\" (PDF)" %}}
 
-["Etsy Online Market Analysis." (PDF - 2.4MB)]({{< baseurl >}}/resources/mit14_27f14_etsy_online)
+{{% resource_link 192c1219-d56e-22ce-c0b2-833a3b34d8b2 "\"Etsy Online Market Analysis.\" (PDF - 2.4MB)" %}}
