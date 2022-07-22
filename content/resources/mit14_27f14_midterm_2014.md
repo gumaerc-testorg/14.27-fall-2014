@@ -5,6 +5,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/3ff2cf6518089f04d34aed40
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.27 F14 Midterm Exam
 uid: 3ff2cf65-1808-9f04-d34a-ed408efeba97
 ---
 This resource contains the information regarding fall 14 midterm exam.
-

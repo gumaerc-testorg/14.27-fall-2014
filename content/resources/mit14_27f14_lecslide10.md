@@ -6,6 +6,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/14a941f030d0dea417a33d0e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.27 F14 Internet market for used books lecture slides
 uid: 14a941f0-30d0-dea4-17a3-3d0eb96d16e8
 ---
 This resource contains the information regarding internet market for used books lecture slides.
-

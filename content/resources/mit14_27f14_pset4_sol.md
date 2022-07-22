@@ -5,6 +5,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/d284dbc379573580e41cf645
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.27 F14 Problem Set 4 Solutions
 uid: d284dbc3-7957-3580-e41c-f645e4b16096
 ---
 This resource contains the information regarding Problem Set 4 Solutions.
-

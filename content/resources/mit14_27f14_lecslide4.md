@@ -6,6 +6,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/77a4a3307cde5e3ce8e7c193
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.27 F14 Entry and market structure lecture slides
 uid: 77a4a330-7cde-5e3c-e8e7-c19365a6dd7a
 ---
 This resource contains the information regarding entry and market structure lecture slides.
-

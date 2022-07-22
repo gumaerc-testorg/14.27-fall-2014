@@ -6,6 +6,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/e684c550e8bb6757d8483ce9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.27 F14 History of retail lecture slides
 uid: e684c550-e8bb-6757-d848-3ce9309abafa
 ---
 This resource contains the information regarding history of retail lecture slides
-

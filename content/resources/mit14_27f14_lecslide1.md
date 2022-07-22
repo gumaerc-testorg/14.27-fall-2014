@@ -6,6 +6,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/82914081d43892f13a127a7f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.27 F14 Introduction lecture slides
 uid: 82914081-d438-92f1-3a12-7a7fe23049df
 ---
 This resource contains the information regarding introduction lecture slides.
-

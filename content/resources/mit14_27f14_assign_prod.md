@@ -5,6 +5,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/0b548e006e6812e6b5faeb5c
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT14_27F14_Assign_Prod.xlsx
 uid: 0b548e00-6e68-12e6-b5fa-eb5c0f704447
 ---
 This resource contains information related to assigned products.
-

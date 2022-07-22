@@ -6,6 +6,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/06a6ae48071177c60c238eee
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Alibaba and corporate governance lecture slides
 uid: 06a6ae48-0711-77c6-0c23-8eee9532cdb4
 ---
 This resource contains the information regarding alibaba and corporate governance lecture slides.
-

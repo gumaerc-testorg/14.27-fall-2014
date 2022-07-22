@@ -6,6 +6,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/becc97323f1561cc53fb9842
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.27 F14 Price search lecture slides
 uid: becc9732-3f15-61cc-53fb-98425e4e6e95
 ---
 This resource contains the information regarding price search lecture slides.
-

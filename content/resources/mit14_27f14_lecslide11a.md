@@ -6,6 +6,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/114f2eb65944650ebb7d248f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.27 F14 Search on the Internet lecture slides
 uid: 114f2eb6-5944-650e-bb7d-248f7b5ba02a
 ---
 This resource contains the information regarding search on the Internet lecture slides.
-

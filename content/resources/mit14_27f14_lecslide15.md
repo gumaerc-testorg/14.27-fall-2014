@@ -6,6 +6,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/0d6d69c2523a27c880e4fe43
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.27 F14 Search advertising and sponsored links lecture slides
 uid: 0d6d69c2-523a-27c8-80e4-fe4372d77cff
 ---
 This resource contains the information regarding search advertising and sponsored links lecture slides.
-

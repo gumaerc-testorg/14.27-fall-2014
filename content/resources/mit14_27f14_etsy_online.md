@@ -5,6 +5,7 @@ file: /courses/14-27-economics-and-e-commerce-fall-2014/192c1219d56e22cec0b2833a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 14.27 F14 Etsy Online Market Analysis
 uid: 192c1219-d56e-22ce-c0b2-833a3b34d8b2
 ---
 This resource contains the information regarding etsy online market analysis.
-
