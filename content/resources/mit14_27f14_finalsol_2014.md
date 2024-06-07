@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding fall 14 fianl exam solution.
 file: /courses/14-27-economics-and-e-commerce-fall-2014/f942759e6958366b71c74c37f9b83716_MIT14_27F14_FinalSol_2014.pdf
+file_size: 183643
 file_type: application/pdf
 learning_resource_types:
 - Exams
