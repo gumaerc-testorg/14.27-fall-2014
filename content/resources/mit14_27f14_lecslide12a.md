@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding history of retail lecture
   slides
 file: /courses/14-27-economics-and-e-commerce-fall-2014/e684c550e8bb6757d8483ce9309abafa_MIT14_27F14_lecslide12a.pdf
+file_size: 1078541
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

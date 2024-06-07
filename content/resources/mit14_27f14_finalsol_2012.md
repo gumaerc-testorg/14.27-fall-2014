@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding fall 14 final exam solution
   from 2012.
 file: /courses/14-27-economics-and-e-commerce-fall-2014/069561117b5103bbea57b9ce7ee261f6_MIT14_27F14_FinalSol_2012.pdf
+file_size: 152535
 file_type: application/pdf
 learning_resource_types:
 - Exams

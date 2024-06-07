@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding search on the Internet
   lecture slides.
 file: /courses/14-27-economics-and-e-commerce-fall-2014/114f2eb65944650ebb7d248f7b5ba02a_MIT14_27F14_lecslide11a.pdf
+file_size: 939748
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

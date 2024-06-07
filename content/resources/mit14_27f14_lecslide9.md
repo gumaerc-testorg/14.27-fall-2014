@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding price search lecture
   slides.
 file: /courses/14-27-economics-and-e-commerce-fall-2014/becc97323f1561cc53fb98425e4e6e95_MIT14_27F14_lecslide9.pdf
+file_size: 889703
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding sales tax and e-commerce
   lecture slides.
 file: /courses/14-27-economics-and-e-commerce-fall-2014/db568182855682f8a8631b98abf2a1c5_MIT14_27F14_lecslide14.pdf
+file_size: 1230829
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
