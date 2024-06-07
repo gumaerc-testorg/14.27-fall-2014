@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding publicly traded firms
   lecture slides.
 file: /courses/14-27-economics-and-e-commerce-fall-2014/25a9e0a9faec99a5be332aa91e6d78ef_MIT14_27F14_lecslide6a.pdf
+file_size: 161865
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

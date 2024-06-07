@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Problem Set 2.
 file: /courses/14-27-economics-and-e-commerce-fall-2014/17747dbc7a21970fb7930c18c9ad3fe1_MIT14_27F14_pset2.pdf
+file_size: 123870
 file_type: application/pdf
 learning_resource_types:
 - Assignments
