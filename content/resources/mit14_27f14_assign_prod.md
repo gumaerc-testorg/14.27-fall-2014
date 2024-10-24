@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to assigned products.
-file: /courses/14-27-economics-and-e-commerce-fall-2014/0b548e006e6812e6b5faeb5c0f704447_MIT14_27F14_Assign_Prod.xlsx
+file: /ol-ocw-studio-app/courses/14-27-economics-and-e-commerce-fall-2014/0b548e006e6812e6b5faeb5c0f704447_MIT14_27F14_Assign_Prod.xlsx
 file_size: 10674
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
