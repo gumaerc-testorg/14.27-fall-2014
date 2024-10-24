@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding etsy online market analysis.
-file: /courses/14-27-economics-and-e-commerce-fall-2014/192c1219d56e22cec0b2833a3b34d8b2_MIT14_27F14_etsy_online.pdf
+file: /ol-ocw-studio-app/courses/14-27-economics-and-e-commerce-fall-2014/192c1219d56e22cec0b2833a3b34d8b2_MIT14_27F14_etsy_online.pdf
 file_size: 2568784
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Student End of Semester
   Essay.
-file: /courses/14-27-economics-and-e-commerce-fall-2014/a68e2cd87c460792f09264ba9768487b_MIT14_27F14_online_food.pdf
+file: /ol-ocw-studio-app/courses/14-27-economics-and-e-commerce-fall-2014/a68e2cd87c460792f09264ba9768487b_MIT14_27F14_online_food.pdf
 file_size: 777470
 file_type: application/pdf
 learning_resource_types:

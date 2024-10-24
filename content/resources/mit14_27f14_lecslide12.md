@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding e-retail and amazon
   lecture slides.
-file: /courses/14-27-economics-and-e-commerce-fall-2014/914126b0c462e9093628e605fa634460_MIT14_27F14_lecslide12.pdf
+file: /ol-ocw-studio-app/courses/14-27-economics-and-e-commerce-fall-2014/914126b0c462e9093628e605fa634460_MIT14_27F14_lecslide12.pdf
 file_size: 818399
 file_type: application/pdf
 learning_resource_types:

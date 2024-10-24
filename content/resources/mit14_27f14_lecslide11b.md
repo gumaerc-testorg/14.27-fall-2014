@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Price search and airlines
   slides.
-file: /courses/14-27-economics-and-e-commerce-fall-2014/8221038f5a54ad6d562f8f06787108bc_MIT14_27F14_lecslide11b.pdf
+file: /ol-ocw-studio-app/courses/14-27-economics-and-e-commerce-fall-2014/8221038f5a54ad6d562f8f06787108bc_MIT14_27F14_lecslide11b.pdf
 file_size: 376496
 file_type: application/pdf
 learning_resource_types:
