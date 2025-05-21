@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding group purchasing lecture
   slides.
-file: /ol-ocw-studio-app/courses/14-27-economics-and-e-commerce-fall-2014/42e011af0ff87c6489caf242d1048d47_MIT14_27F14_lecslide8.pdf
+file: /courses/14-27-economics-and-e-commerce-fall-2014/42e011af0ff87c6489caf242d1048d47_MIT14_27F14_lecslide8.pdf
 file_size: 387652
 file_type: application/pdf
 learning_resource_types:

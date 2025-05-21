@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding price discrimination
   lecture slides.
-file: /ol-ocw-studio-app/courses/14-27-economics-and-e-commerce-fall-2014/62c245190634a66323ba1d08de713502_MIT14_27F14_lecslide13.pdf
+file: /courses/14-27-economics-and-e-commerce-fall-2014/62c245190634a66323ba1d08de713502_MIT14_27F14_lecslide13.pdf
 file_size: 425122
 file_type: application/pdf
 learning_resource_types:

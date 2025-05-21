@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Problem Set 4.
-file: /ol-ocw-studio-app/courses/14-27-economics-and-e-commerce-fall-2014/b52287ef628fc551ea557e8ed1d1af55_MIT14_27F14_pset4.pdf
+file: /courses/14-27-economics-and-e-commerce-fall-2014/b52287ef628fc551ea557e8ed1d1af55_MIT14_27F14_pset4.pdf
 file_size: 134931
 file_type: application/pdf
 learning_resource_types:

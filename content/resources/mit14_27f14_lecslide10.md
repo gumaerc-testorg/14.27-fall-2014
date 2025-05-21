@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding internet market for
   used books lecture slides.
-file: /ol-ocw-studio-app/courses/14-27-economics-and-e-commerce-fall-2014/14a941f030d0dea417a33d0eb96d16e8_MIT14_27F14_lecslide10.pdf
+file: /courses/14-27-economics-and-e-commerce-fall-2014/14a941f030d0dea417a33d0eb96d16e8_MIT14_27F14_lecslide10.pdf
 file_size: 705500
 file_type: application/pdf
 learning_resource_types:
