@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding fall 14 midterm exam
   from 2012.
-file: /ol-ocw-studio-app/courses/14-27-economics-and-e-commerce-fall-2014/f52205924795558c89cca44c78ae935a_MIT14_27F14_Midterm_2012.pdf
+file: /courses/14-27-economics-and-e-commerce-fall-2014/f52205924795558c89cca44c78ae935a_MIT14_27F14_Midterm_2012.pdf
 file_size: 524640
 file_type: application/pdf
 learning_resource_types:
