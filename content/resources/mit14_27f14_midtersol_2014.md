@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding fall 14 midterm exam
   solution.
-file: /courses/14-27-economics-and-e-commerce-fall-2014/e9798e894485fc937f3b33b7ededaed5_MIT14_27F14_MidterSol_2014.pdf
+file: /ol-ocw-studio-app/courses/14-27-economics-and-e-commerce-fall-2014/e9798e894485fc937f3b33b7ededaed5_MIT14_27F14_MidterSol_2014.pdf
 file_size: 200312
 file_type: application/pdf
 learning_resource_types:
